@@ -1,6 +1,6 @@
 # Multiple-Traveling-Salesmen-Problem-with-Time-Windows
 ## Problem Statement
-In the dynamic environment of fashion retail, optimizing transportation logistics emerges as a strategy for enhancing efficiency and reducing costs.   
+In the environment of retail, optimizing transportation logistics emerges as a strategy for enhancing efficiency and reducing costs.   
 The transportation problem focuses on minimizing costs and itinerary time for two distinct groups involved in showroom appointments: buyers and salespeople.     
 
 <span style="color:lightyellow;">Buyers</span> from prominent retail companies navigate through the city to attend 6-8 meetings daily across various locations during the fashion week season. Their primary objectives are to:
